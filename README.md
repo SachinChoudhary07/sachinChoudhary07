@@ -102,14 +102,6 @@ Selected articles published on Medium:
 
 [Browse articles through my portfolio →](https://sachinchoudhary07.github.io/#blog)
 
-## Experience
-
-| Role | Company | Period |
-|:---|:---|:---|
-| Flutter Developer | Codiant — A YASH Technologies Company | Oct 2024 – Jun 2026 |
-| Associate Flutter Developer | Mactosys Software Technology | Dec 2023 – Sep 2024 |
-| Junior Flutter Developer | IndVibe Infotech | Nov 2022 – Nov 2023 |
-| Flutter Developer Intern | Xcrino Business Solution | Sep 2021 – Jan 2022 |
 
 ## Let's Build Something Useful
 
